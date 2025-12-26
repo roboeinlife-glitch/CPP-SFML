@@ -7,3 +7,5 @@ while (life) {
 }
 
 ## Code by AI
+
+[Trở về trang chủ](https://github.com/roboeinlife-glitch)
